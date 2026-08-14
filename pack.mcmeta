@@ -1,12 +1,7 @@
 {
   "pack": {
-    "pack_format": 70,
-    "supported_formats": [
-      30,
-      999
-    ],
-    "min_format": 30,
-    "max_format": 999,
-    "description": "§7Removes all color from pale wood§r§8 - By Tabfox"
+    "description": "§4■ 3.0§8\n■ by nyxion\",\n    ",
+    "min_format": 40,
+    "max_format": 96
   }
 }
